@@ -1,3 +1,5 @@
+![гиф](https://i.gifer.com/RjSK.gif)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SerovaKaterina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
