@@ -1,4 +1,4 @@
-
+![Гиф](https://i.gifer.com/RjSK.gif)
 
 <!--
 **SerovaKaterina/SerovaKaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
