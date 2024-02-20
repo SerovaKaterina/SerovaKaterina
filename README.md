@@ -1,6 +1,6 @@
-![гиф](https://i.gifer.com/RjSK.gif);
+![гиф](https://i.gifer.com/RjSK.gif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SerovaKaterina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy);
+[![trophy](https://github-profile-trophy.vercel.app/?username=SerovaKaterina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **SerovaKaterina/SerovaKaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
